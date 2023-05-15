@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/borders_round.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/chest.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/chest_bottom.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/circle_background.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/circle_background_orange.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/gradient_orange.xml" value="0.15520833333333334" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/ic_chest_top.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/ic_profile.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/ic_reset.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/ic_share.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/ic_welcome_image.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/progress_bar_gradient.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/drawable/strike_pattern.xml" value="0.2703125" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_chest_opening.xml" value="0.264" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_levels.xml" value="0.24365942028985507" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_permission.xml" value="0.24864130434782608" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_register.xml" value="0.264" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_rewards.xml" value="0.23505434782608695" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_route_details.xml" value="0.20471014492753623" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_route_record.xml" value="0.24864130434782608" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_route_save.xml" value="0.22554347826086957" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_routes.xml" value="0.23278985507246377" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/fragment_statistics.xml" value="0.264" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/level_recycler_view_item.xml" value="0.24365942028985507" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/route_recycler_view_item.xml" value="0.4" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/sticker_recycler_view_item.xml" value="0.171875" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/layout/top_users_recycler_view_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/menu/menu_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/OneMoreStep/OneMoreStepApp/app/src/main/res/xml/network_security_config.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">OneMoreStep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Permission fragment
+    <string name="continue_text">Продолжить</string>
+    <string name="continue_description">Welcome to Distance Tracker. In order to use our application we will first need to request location permission from you. Otherwise we will not be able to provide you with our service. If you agree tap on the button below</string>
+    <string name="permission_required">Необходимы разрешения</string>
+
+    // Maps Fragment
+    <string name="reset">Сбросить</string>
+    <string name="stop">Остановить</string>
+    <string name="start">Начать</string>
+    <string name="tap_on_my_location_button">Нажмите на кнопку "Мое расположение"</string>
+    <string name="_3">3</string>
+
+    // Result Fragment
+    <string name="distance">Расстояние</string>
+    <string name="time">Время</string>
+    <string name="share">Поделиться</string>
+    <string name="result">%1$s km</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="_0_0km">0.0km</string>
+
+    //Login and registration fragments
+    <string name="login_text_view">Вход</string>
+    <string name="email_text">Почта</string>
+    <string name="password_text">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="registration_text_view">Регистрация</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="confirm_password">Подтвердить пароль</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="already_have_account">Уже есть аккаунт</string>
+
+    //Profile Fragment
+    <string name="add_route">Добавить маршрут</string>
+    <string name="logout">Выйти</string>
+
+    //Save Route Fragment
+    <string name="save_route_text_view">Сохранение маршрута</string>
+    <string name="route_name">Название маршрута</string>
+    <string name="route_description">Описание маршрута</string>
+    <string name="publish_button">Опубликовать</string>
+
+    //Chest Open Fragment
+    <string name="getting_reward_text">Загрузка стикера…</string>
+    <string name="already_have_sticker">У вас уже есть такой стикер</string>
+    <string name="new_sticker">Поздравляем! Вы получили новый стикер!</string>
+</resources>
